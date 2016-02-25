@@ -12,9 +12,13 @@ source ~/vim/vimrc.vim
 
 Colours
 ------
-Need your some colours? 
+Need your some colours?
+ 
 1.Add this line on top /home/USERNAME/.bashrc 
+
 export TERM=xterm-256color 
+
 2.And reload bash: 
+
 . ~/.bashrc
 
