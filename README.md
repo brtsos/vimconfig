@@ -9,6 +9,7 @@ Install
 set runtimepath^=~/vim 
 
 source ~/vim/vimrc.vim
+
 3. Run vim /home/USERNAME/.vimrc and than :PluginInstall
 4. Restart vim
 
