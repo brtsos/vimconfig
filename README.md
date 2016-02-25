@@ -5,7 +5,9 @@ Install
 -------
 1. Clone repo to /home/USERNAME/vim/
 2. Create .vimrc in /home/USERNAME/ with content: 
+
 set runtimepath^=~/vim 
+
 source ~/vim/vimrc.vim
 3. Run vim /home/USERNAME/.vimrc and than :PluginInstall
 4. Restart vim
